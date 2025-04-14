@@ -1,0 +1,14 @@
+/Users/tomjmp/Hello_World/Final/bin/Debug/net9.0/Final
+/Users/tomjmp/Hello_World/Final/bin/Debug/net9.0/Final.deps.json
+/Users/tomjmp/Hello_World/Final/bin/Debug/net9.0/Final.runtimeconfig.json
+/Users/tomjmp/Hello_World/Final/bin/Debug/net9.0/Final.dll
+/Users/tomjmp/Hello_World/Final/bin/Debug/net9.0/Final.pdb
+/Users/tomjmp/Hello_World/Final/obj/Debug/net9.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomjmp/Hello_World/Final/obj/Debug/net9.0/Final.AssemblyInfoInputs.cache
+/Users/tomjmp/Hello_World/Final/obj/Debug/net9.0/Final.AssemblyInfo.cs
+/Users/tomjmp/Hello_World/Final/obj/Debug/net9.0/Final.csproj.CoreCompileInputs.cache
+/Users/tomjmp/Hello_World/Final/obj/Debug/net9.0/Final.dll
+/Users/tomjmp/Hello_World/Final/obj/Debug/net9.0/refint/Final.dll
+/Users/tomjmp/Hello_World/Final/obj/Debug/net9.0/Final.pdb
+/Users/tomjmp/Hello_World/Final/obj/Debug/net9.0/Final.genruntimeconfig.cache
+/Users/tomjmp/Hello_World/Final/obj/Debug/net9.0/ref/Final.dll
